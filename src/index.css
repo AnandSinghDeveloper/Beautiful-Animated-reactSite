@@ -2,7 +2,22 @@
 @tailwind components;
 @tailwind utilities;
 
+*{
+  font-family:   Roboto,  sans-serif ;
+}
+#font{
+  
+  letter-spacing: -0.1rem;
+  font-weight: 800;
+}
+
+#img{
+background-image: url(./Components/img/forest-paper-cut-background-with-trees-and-flying-vector-52683615.jpg);
+object-fit: cover;
+object-position: center ;
 
 
+  
+}
 
 
